@@ -1,0 +1,17 @@
+h1 {font-family:Lucida;font-size:22pt;background-color:#F0F0F0;color:#A4A400;text-decoration:underline;font-weight: bold;}
+p1 {font-family:Georgia ;font-size:11pt;color:#404040;}
+p2 {font-family:Times,serif;font-size:11pt;font-style:italic;margin:10px 70px;color:#404040;}
+p3 {font-family:Georgia;font-size:11pt;color:#404040;margin:10px 70px;}
+img {width: 350px;}
+ul.is {font-family:Garamond ;font-size:11pt;color:#404040;list-style-type: circle; margin:10px 70px;}
+ol {font-family:Georgia;font-size:11pt;color:#404040;font-weight: bold;}
+div {text-align: center;}
+a {color:blue;}
+a.ss {background-image: url("w3c-html.png");display: inline-block; width: 230px;height:81px;}
+a.sa {background-image: url("w3c-css.png");display: inline-block; width: 230px;height:81px;text-align: center;}
+ul.yu {font-weight: normal;font-family:Garamond ;font-size:11pt;color:#404040;}
+div.last {text-align: right;}
+p4 {font-family:Georgia;font-size:11pt;color:#404040;position:relative;right:36px;color:blue;}
+i {text-decoration: underline;}
+i2 {text-decoration: line-through;}
+i3 {font-weight: bold;}
